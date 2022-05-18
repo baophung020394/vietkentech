@@ -1,0 +1,85 @@
+@import "../../scss/variable";
+
+.list-page {
+  &__box {
+    padding: 15px;
+
+    ul {
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+
+      li {
+        min-width: 24%;
+        max-width: 24%;
+        margin-bottom: 24px;
+
+        .MuiPaper-root {
+          min-height: 553px;
+        }
+
+        .MuiCardMedia-root {
+          min-height: 350px;
+          object-fit: contain;
+        }
+
+        .MuiCardContent-root {
+          min-height: 200px;
+          .category {
+            color: #a1a1a1;
+            font-size: 16px;
+            margin-bottom: 8px;
+            min-height: 100% !important;
+          }
+
+          .prices {
+            text-align: right;
+            padding: 8px 16px 0;
+
+            &__price {
+              font-weight: bold;
+            }
+          }
+
+          .MuiTypography-root {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            min-height: 61px;
+          }
+          .MuiTypography-root.MuiTypography-h5 {
+            min-height: 96px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1600px) {
+  .list-page {
+    &__box {
+      ul {
+        li {
+          max-width: 32%;
+          min-width: 32%;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .list-page {
+    &__box {
+      ul {
+        li {
+          max-width: 49%;
+          min-width: 49%;
+        }
+      }
+    }
+  }
+}

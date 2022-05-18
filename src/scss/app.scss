@@ -1,0 +1,15 @@
+@import "./variable";
+@import "./components/header";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.vietkentech {
+  width: 100vw;
+  max-width: 100%;
+  min-height: calc(100vh - 50px);
+}

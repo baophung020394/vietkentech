@@ -1,0 +1,25 @@
+@import "../../scss/variable";
+
+.layout {
+  width: 100vw;
+  max-width: 100%;
+  min-height: calc(100vh - 50px);
+
+  &__box {
+    display: flex;
+    justify-content: space-between;
+
+    &--sidebar {
+      flex: 1;
+      min-width: 240px;
+      max-width: 240px;
+      border-right: 1px solid #e2e2e2;
+      padding: 0.5rem;
+    }
+
+    &--main {
+      flex: 2;
+      padding: 0.5rem;
+    }
+  }
+}
