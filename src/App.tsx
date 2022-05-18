@@ -11,8 +11,7 @@ function App() {
     <Box className="vietkentech">
       <Suspense fallback={<h1>Loading...</h1>}>
         <Switch>
-          <Redirect exact from="/" to="/list" />
-          <Route path="/list" component={Frontend} />
+          <Route path="/vietkentech/products" component={Frontend} />
           <Route component={NotFound} />
         </Switch>
       </Suspense>
