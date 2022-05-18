@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/vietkentech/static/css/main.ad5ab746.css",
-    "main.js": "/vietkentech/static/js/main.31207568.js",
-    "static/js/787.8d84a982.chunk.js": "/vietkentech/static/js/787.8d84a982.chunk.js",
-    "index.html": "/vietkentech/index.html",
-    "main.ad5ab746.css.map": "/vietkentech/static/css/main.ad5ab746.css.map",
-    "main.31207568.js.map": "/vietkentech/static/js/main.31207568.js.map",
-    "787.8d84a982.chunk.js.map": "/vietkentech/static/js/787.8d84a982.chunk.js.map"
+    "main.css": "/static/css/main.b3088cb5.css",
+    "main.js": "/static/js/main.fc3e4c8a.js",
+    "static/js/787.8d84a982.chunk.js": "/static/js/787.8d84a982.chunk.js",
+    "static/media/logomoa.svg": "/static/media/logomoa.1ba9b2dcf3762c9fcc4554084d7e8fb1.svg",
+    "index.html": "/index.html",
+    "main.b3088cb5.css.map": "/static/css/main.b3088cb5.css.map",
+    "main.fc3e4c8a.js.map": "/static/js/main.fc3e4c8a.js.map",
+    "787.8d84a982.chunk.js.map": "/static/js/787.8d84a982.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad5ab746.css",
-    "static/js/main.31207568.js"
+    "static/css/main.b3088cb5.css",
+    "static/js/main.fc3e4c8a.js"
   ]
 }
