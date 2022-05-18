@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/vietkentech/static/css/main.b3088cb5.css",
-    "main.js": "/vietkentech/static/js/main.9aa00157.js",
+    "main.js": "/vietkentech/static/js/main.af01edf1.js",
     "static/js/787.8d84a982.chunk.js": "/vietkentech/static/js/787.8d84a982.chunk.js",
     "static/media/logomoa.svg": "/vietkentech/static/media/logomoa.1ba9b2dcf3762c9fcc4554084d7e8fb1.svg",
     "index.html": "/vietkentech/index.html",
     "main.b3088cb5.css.map": "/vietkentech/static/css/main.b3088cb5.css.map",
-    "main.9aa00157.js.map": "/vietkentech/static/js/main.9aa00157.js.map",
+    "main.af01edf1.js.map": "/vietkentech/static/js/main.af01edf1.js.map",
     "787.8d84a982.chunk.js.map": "/vietkentech/static/js/787.8d84a982.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3088cb5.css",
-    "static/js/main.9aa00157.js"
+    "static/js/main.af01edf1.js"
   ]
 }
