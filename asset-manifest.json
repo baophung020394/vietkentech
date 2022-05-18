@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vietkentech/static/css/main.ad5ab746.css",
+    "main.js": "/vietkentech/static/js/main.31207568.js",
+    "static/js/787.8d84a982.chunk.js": "/vietkentech/static/js/787.8d84a982.chunk.js",
+    "index.html": "/vietkentech/index.html",
+    "main.ad5ab746.css.map": "/vietkentech/static/css/main.ad5ab746.css.map",
+    "main.31207568.js.map": "/vietkentech/static/js/main.31207568.js.map",
+    "787.8d84a982.chunk.js.map": "/vietkentech/static/js/787.8d84a982.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad5ab746.css",
+    "static/js/main.31207568.js"
+  ]
+}
